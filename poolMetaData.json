@@ -2,6 +2,6 @@
 "name": "EstacaPool",
 "description": "",
 "ticker": "ESTC",
-"homepage": "https://www.estacapool.com/",
+"homepage": "https://www.estacapool.com",
 "extended": "https://raw.githubusercontent.com/estacapool/estaca-mainnet/main/extendedMetaData.json"
 }
